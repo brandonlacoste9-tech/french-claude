@@ -39,7 +39,7 @@
     "@radix-ui/react-toast": "^1.1.5",
     "@radix-ui/react-tooltip": "^1.0.7",
     
-    "zod": "^3.23.0",
+    "zod": "^4.6.7",
     "zustand": "^4.5.0",
     "date-fns": "^3.6.0",
     "nanoid": "^5.0.7"
